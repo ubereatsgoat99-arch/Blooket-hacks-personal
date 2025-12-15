@@ -1,4 +1,4 @@
-# Blooket Hacks (Personal Use Only)
+# Blooket Hacks (Use for ISU students only)
 
 This repository contains a collection of scripts designed **totally for educational purposes (trust)** related to Blooket. These tools were created by Advik for personal experimentation and learning about how client-side code interacts with web applications.
 
