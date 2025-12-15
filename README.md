@@ -1,14 +1,14 @@
 # Blooket Hacks (Personal Use Only)
 
-This repository contains a collection of scripts designed **for educational purposes(trust)** related to Blooket. These tools were created by a student at ISU for personal experimentation and learning about how client-side code interacts with web applications.
+This repository contains a collection of scripts designed **totally for educational purposes (trust)** related to Blooket. These tools were created by Advik for personal experimentation and learning about how client-side code interacts with web applications.
 
 ## ⚙️ How to Use
 
 1. Open your browser and navigate to **Inspect → Console**.
 2. Copy and paste the contents of `hacks.js` into the console.
-3. Press **Enter** to execute the script. (if it doesn't work well then go cra an ocean skid)
+3. Press **Enter** to execute the script. (if it doesn't work well then go cry an ocean skid, and fuck u )
 
-> **Note:** These scripts are intended for private testing and learning. Using them in violation of Blooket’s Terms of Service may result in account suspension or bans. Use responsibly and at your own risk.
+> **Note:** These damn scripts violate the fucking Blooket Terms (and I don't give a fuck if you get banned) so use at ur own risk.
 
 ## ⭐ Contribute
 
