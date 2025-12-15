@@ -63,7 +63,7 @@
       Welcome to X-GUI, students of ISU! ✨
     </div>
     <div style="font-size: 0.95em; color: #B0A8FF; margin-bottom: 12px; line-height:1.3;">
-      The sleekest, most advanced Blooket client made by CyberNovaX, aka Advik— enjoy the experience!
+      The sleekest, most advanced Blooket client made by CyberNovaX, aka Advik for Rayan— enjoy the experience!
     </div>
 
     <label style="display:flex;align-items:center;justify-content:center;gap:8px;margin-top:10px;cursor:pointer;font-size:0.9em;user-select:none;">
