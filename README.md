@@ -12,8 +12,8 @@ This repository contains a collection of scripts designed **totally for educatio
 
 ## ⭐ Contribute
 
-If you find this useful or educational, consider starring the repository.  
-Pull requests for improvements or educational examples are welcome!
+If you find this useful (ik damn well u will), consider starring the repository.  
+Pull requests for improvements or shit like that are NOT welcome and don't beg on my discord if they get outdated!
 
 ---
 
